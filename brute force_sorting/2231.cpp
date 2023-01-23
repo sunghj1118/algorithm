@@ -1,29 +1,24 @@
 #include <iostream>
-
 using namespace std;
 
 int main() {
-	int N, M, i, temp;
-    N = M = i = temp = 0;
-    
+    int N, M, temp;
+    N = M = temp = 0;
     cin >> N;
 
-    /*
-    */
-    while (true)
+    for (int i = 0; i < N; i++)
     {
-        i++;
         temp = i;
-        while(temp > 0){
-            M = temp + temp % 10;
+        M = temp;
+        while (temp > 0) {
+            M = M + temp % 10;
             temp = temp / 10;
         }
 
-        if(M == N){
-            break;
+        if (M == N) {
+            cout << i << endl;
+            return 0;
         }
     }
-
-    cout << i;
-    return 0;
+    cout << 0 << endl;
 }
