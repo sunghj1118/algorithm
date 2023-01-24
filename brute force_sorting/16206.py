@@ -1,6 +1,4 @@
 N, M = [int(x) for x in input().split()]
-people = []
-weights = []
 rolls = list(map(int, input().split()))
 rolls.sort(key=lambda x: (x%10,x))
 
