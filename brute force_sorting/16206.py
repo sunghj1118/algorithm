@@ -2,6 +2,8 @@ N, M = [int(x) for x in input().split()]
 people = []
 weights = []
 rolls = list(map(int, input().split()))
+rolls.sort(key=lambda x: (x%10,x))
+
 possible = 0
 
 for i in range(N):
@@ -13,6 +15,7 @@ for i in range(N):
             M -= 1
             possible += 1
             rolls[i] = rolls[i] - 10
-
+        else:
+            break
 
 print(possible)
