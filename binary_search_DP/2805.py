@@ -1,38 +1,37 @@
-# take inputs K, N
-K, N = list(map(int,input().split()))
+# take inputs N, M
+Ntrees, Mneeded = list(map(int,input().split()))
 
-# initialize list of cables
-cables = []
+# initialize list of trees
+# take inputs of trees
+trees = list(map(int,input().split()))
 
-# take inputs of cables
-for i in K:
-    cables.append(int(input()))
 
-# set start as 1 and end as the longest cable available
+# set start as 1 and end as the longest tree available
 start = 1
-end = max(cables)
+end = max(trees)
 
 #while list until start is larger than end
 #mid is the sum of start, end long divided by 2
-#initialize numcables to 0 every loop
-#for loop for every cable in the cable list
-while(start<=end):
+#initialize treelen to 0 every loop
+#for loop for every tree in the tree list
+while(start <= end):
     mid = (start+end) // 2
-    numcables = 0
+    treelen = 0
 
-    for i in cables:
-        numcables = numcables + i//mid
+    for i in trees:
+        if(i > mid):
+            treelen += i - mid
     
-    if(numcables >= N):
+    if(treelen >= Mneeded):
         start = mid +1
     else:
         end = mid-1
 
 
-#if the number of cables that can be made is smaller than the needed N,
+#if the number of trees that can be made is smaller than the needed N,
 #update the start var to mid+1
 
 #else, update end var to mid-1 to search for the largest end var possible
-#aka longest cable possible
+#aka longest tree possible
 
 print(end)
