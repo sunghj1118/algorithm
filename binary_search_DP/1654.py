@@ -1,23 +1,21 @@
+
+
 K, N = list(map(int, input().split()))
 cables = []
 
-for i in range(K):
-    cables[i] = int(input(N))
-cables.sort()
+for og in range(K):
+    cables.append(int(input()))
+start, end = 1, max(cables)
 
-def binary_search(arr, low, high, x):
-    if high >= low:
-        mid = (high+low)//2
-        
-        if arr[mid] == x:
-            return 1
-        elif arr[mid] > x:
-            return binary_search(arr, low, mid -1, x)
-        else:
-            return binary_search(arr, mid +1, high, x)
+while start <= end:
+    mid = (start+end)//2
+    ncables = 0
+    for i in cables:
+        ncables += i // mid
+    
+    if ncables >= N:
+        start = mid + 1
     else:
-        return 0
+        end = mid - 1
 
-
-for i in range(0, M):
-    print(binary_search(cables, 1, cables[-1], x))
+print(end)
