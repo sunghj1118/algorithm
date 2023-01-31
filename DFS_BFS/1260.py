@@ -14,7 +14,12 @@ def bfs(v):
                 q.append(i)
                 visitlist1[i] = 1
 
-                
+def dfs(v):
+    visitlist2[v] = 1
+    print(v, end = " ")
+    for i in range(n+1):
+        if visitlist2[i] == 0 and graph[v][i] == 1:
+            dfs(i)                
 
 
 n, m, v = map(int, read().split())
@@ -27,4 +32,6 @@ for _ in range(m):
     a, b = map(int, read().split())
     graph[a][b] = graph[b][a] = 1
 
+dfs(v)
+print()
 bfs(v)
