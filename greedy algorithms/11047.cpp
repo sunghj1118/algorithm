@@ -1,11 +1,8 @@
 #include <iostream>
-#include <algorithm>
 
 using namespace std;
 
-const int MAX = 1000;
-int coins[MAX];
-
+int coins[11];
 int main() {
     int n, k;
 
@@ -16,15 +13,10 @@ int main() {
 
     int i = n - 1;
     int count=0;
-    while (k > 0) {
-        if (coins[i] < k) {
-            count += k / coins[i];
-            k = k % coins[i];
-            i--;
-        }
-        else {
-            i--;
-        }
+    while (i>=0) {
+        count += k / coins[i];
+        k = k % coins[i];
+        i--;
     }
     cout << count << endl;
 }
