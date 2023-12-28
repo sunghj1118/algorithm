@@ -5,3 +5,6 @@
 
 ## Tree
 - `2236. Root Equals Sum of Children`
+
+## Array
+- `1480. Running Sum of 1d Array`
