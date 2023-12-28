@@ -8,3 +8,7 @@
 
 ## Array
 - `1480. Running Sum of 1d Array`
+
+## Dynamic Programming
+- `1531. String Compression II`
+
