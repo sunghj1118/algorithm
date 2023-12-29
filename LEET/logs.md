@@ -13,3 +13,4 @@ Here are the logs for my progress in leetcode.
 #
 ### 29
 - Daily Problem: Solved `1335. Minimum Difficulty of a Job Schedule`
+- Solved ``412. Fizz Buzz``

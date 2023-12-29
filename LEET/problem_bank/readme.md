@@ -2,6 +2,7 @@
 
 ## Math
 - `2235. Add Two Integers`
+- `412. Fizz Buzz`
 
 ## Tree
 - `2236. Root Equals Sum of Children`
