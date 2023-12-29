@@ -10,6 +10,6 @@ Here are the logs for my progress in leetcode.
 - Solved `1480. Running Sum of 1d Array`
 - Daily Problem: Solved `1531. String Compression II`
 
-
-
 #
+### 29
+- Daily Problem: Solved `1335. Minimum Difficulty of a Job Schedule`
