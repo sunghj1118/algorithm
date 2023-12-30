@@ -17,4 +17,5 @@ Here are the logs for my progress in leetcode.
 
 #
 ### 30
+- Daily Problem: Solved `1897. Redistribute Characters to Make All Strings Equal`
 - Solved `1578. Minimum Time to Make Rope Colorful`

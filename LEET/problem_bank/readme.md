@@ -4,6 +4,9 @@
 - `2235. Add Two Integers`
 - `412. Fizz Buzz`
 
+## Hash Table
+- `1897. Redistribute Characters to Make All Strings Equal`
+
 ## Tree
 - `2236. Root Equals Sum of Children`
 
