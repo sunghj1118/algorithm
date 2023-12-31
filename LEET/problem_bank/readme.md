@@ -6,6 +6,7 @@
 
 ## Hash Table
 - `1897. Redistribute Characters to Make All Strings Equal`
+- `1624. Largest Substring Between Two Equal Characters`
 
 ## Tree
 - `2236. Root Equals Sum of Children`
