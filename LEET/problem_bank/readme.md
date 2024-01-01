@@ -16,6 +16,7 @@
 
 ## Greedy
 - `1578. Minimum Time to Make Rope Colorful`
+- `455. Assign Cookies`
 
 ## Dynamic Programming
 - `1531. String Compression II`

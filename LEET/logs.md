@@ -23,3 +23,9 @@ Here are the logs for my progress in leetcode.
 #
 ### 31
 - Daily Problem: Solved `1624. Largest Substring Between Two Equal Characters`
+
+#
+
+## 2024-1
+### 1
+- Daily Problem: Solved `455. Assign Cookies`
