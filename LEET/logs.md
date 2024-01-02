@@ -29,3 +29,9 @@ Here are the logs for my progress in leetcode.
 ## 2024-1
 ### 1
 - Daily Problem: Solved `455. Assign Cookies`
+#
+
+### 1
+- Daily Problem: Solved `2610. Convert an Array Into a 2D Array With Conditions`
+#
+
