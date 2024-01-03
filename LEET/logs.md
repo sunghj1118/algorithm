@@ -31,7 +31,11 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `455. Assign Cookies`
 #
 
-### 1
+### 2
 - Daily Problem: Solved `2610. Convert an Array Into a 2D Array With Conditions`
+#
+
+### 3
+- Daily Problem: Solved `2125. Number of Laser Beams in a Bank`
 #
 

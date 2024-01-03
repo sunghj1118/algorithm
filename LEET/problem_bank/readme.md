@@ -14,6 +14,7 @@
 
 ## Array
 - `1480. Running Sum of 1d Array`
+- `2125. Number of Laser Beams in a Bank`
 
 ## Greedy
 - `1578. Minimum Time to Make Rope Colorful`
