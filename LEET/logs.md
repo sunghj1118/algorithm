@@ -39,3 +39,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `2125. Number of Laser Beams in a Bank`
 #
 
+### 4
+- Daily Problem: Solved `2870. Minimum Number of Operations to Make Array Empty`
+#
+

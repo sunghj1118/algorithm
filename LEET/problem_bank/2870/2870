@@ -1,0 +1,38 @@
+from typing import List
+
+
+class Solution:
+    def minOperations(self, nums: List[int]) -> int:
+        chars = {}
+        minOps = 0
+
+        # Count the number of times each number appears
+        for num in nums:
+            if num not in chars:
+                chars[num] = 1
+            else:
+                chars[num] += 1
+
+        # Remove all numbers divisible by 2 or 3
+        while chars:
+            for num in list(chars):
+                if chars[num] == 1:
+                    return -1
+                elif chars[num] % 3 == 0:
+                    minOps += chars[num] / 3
+                    del chars[num]
+                elif chars[num] % 2 == 0:
+                    minOps += 1
+                    chars[num] -= 2
+                elif chars[num] >= 3:
+                    minOps += 1
+                    chars[num] -= 3
+                else:
+                    del chars[num]
+
+        return int(minOps)
+
+
+solution = Solution()
+print(solution.minOperations(
+    [14, 12, 14, 14, 12, 14, 14, 12, 12, 12, 12, 14, 14, 12, 14, 14, 14, 12, 12]))

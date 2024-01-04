@@ -8,6 +8,7 @@
 - `1897. Redistribute Characters to Make All Strings Equal`
 - `1624. Largest Substring Between Two Equal Characters`
 - `2610. Convert an Array Into a 2D Array With Conditions`
+- `2870. Minimum Number of Operations to Make Array Empty`
 
 ## Tree
 - `2236. Root Equals Sum of Children`
