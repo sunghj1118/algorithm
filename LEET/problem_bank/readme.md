@@ -24,3 +24,4 @@
 ## Dynamic Programming
 - `1531. String Compression II`
 - `1335. Minimum Difficulty of a Job Schedule`
+- `300. Longest Increasing Subsequence`
