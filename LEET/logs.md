@@ -47,3 +47,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `300. Longest Increasing Subsequence`
 #
 
+### 6
+- Daily Problem: Solved `1235. Maximum Profit in Job Scheduling`
+#
+

@@ -25,3 +25,4 @@
 - `1531. String Compression II`
 - `1335. Minimum Difficulty of a Job Schedule`
 - `300. Longest Increasing Subsequence`
+- *`1235. Maximum Profit in Job Scheduling`
