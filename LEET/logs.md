@@ -51,3 +51,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `1235. Maximum Profit in Job Scheduling`
 #
 
+### 7
+- Daily Problem: Solved `446. Arithmetic Slices II - Subsequence`
+#
+
