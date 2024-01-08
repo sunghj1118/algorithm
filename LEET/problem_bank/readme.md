@@ -12,6 +12,7 @@
 
 ## Tree
 - `2236. Root Equals Sum of Children`
+- `938. Range Sum of BST`
 
 ## Array
 - `1480. Running Sum of 1d Array`
