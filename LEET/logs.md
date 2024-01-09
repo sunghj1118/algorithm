@@ -59,3 +59,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `938. Range Sum of BST`
 #
 
+### 9
+- Daily Problem: Solved `872. Leaf-Similar Trees`
+#
+

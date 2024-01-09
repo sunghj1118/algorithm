@@ -13,6 +13,7 @@
 ## Tree
 - `2236. Root Equals Sum of Children`
 - `938. Range Sum of BST`
+- `872. Leaf-Similar Trees`
 
 ## Array
 - `1480. Running Sum of 1d Array`
