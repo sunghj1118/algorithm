@@ -63,3 +63,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `872. Leaf-Similar Trees`
 #
 
+### 10
+- Daily Problem: Solved `2385. Amount of Time for Binary Tree to Be Infected`
+#
+
