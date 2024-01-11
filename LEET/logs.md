@@ -67,3 +67,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `2385. Amount of Time for Binary Tree to Be Infected`
 #
 
+### 11
+- Daily Problem: Solved `1026. Maximum Difference Between Node and Ancestor`
+#
+
