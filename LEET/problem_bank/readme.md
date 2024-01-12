@@ -1,5 +1,8 @@
 # Solved Problems:
 
+## String
+- `1704. Determine if String Halves Are Alike`
+
 ## Math
 - `2235. Add Two Integers`
 - `412. Fizz Buzz`

@@ -71,3 +71,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `1026. Maximum Difference Between Node and Ancestor`
 #
 
+### 12
+- Daily Problem: Solved `1704. Determine if String Halves Are Alike`
+#
+
