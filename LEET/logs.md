@@ -75,3 +75,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `1704. Determine if String Halves Are Alike`
 #
 
+### 13
+- Daily Problem: Solved `1347. Minimum Number of Steps to Make Two Strings Anagram`
+#
+
