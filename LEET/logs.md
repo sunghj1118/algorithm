@@ -79,3 +79,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `1347. Minimum Number of Steps to Make Two Strings Anagram`
 #
 
+### 14
+- Daily Problem: Solved `1657. Determine if Two Strings Are Close`
+#
+
