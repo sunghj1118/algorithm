@@ -83,3 +83,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `1657. Determine if Two Strings Are Close`
 #
 
+### 15
+- Daily Problem: Solved `2225. Find Players With Zero or One Losses`
+#
+

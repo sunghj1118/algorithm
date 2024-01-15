@@ -14,6 +14,7 @@
 - `2870. Minimum Number of Operations to Make Array Empty`
 - `1347. Minimum Number of Steps to Make Two Strings Anagram`
 - `1657. Determine if Two Strings Are Close`
+- `2225. Find Players With Zero or One Losses`
 
 ## Tree
 - `2236. Root Equals Sum of Children`
