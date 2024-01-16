@@ -87,3 +87,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `2225. Find Players With Zero or One Losses`
 #
 
+### 16
+- Daily Problem: Solved `380. Insert Delete GetRandom O(1)`
+#
+

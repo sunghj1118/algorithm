@@ -6,6 +6,7 @@
 ## Math
 - `2235. Add Two Integers`
 - `412. Fizz Buzz`
+- `380. Insert Delete GetRandom O(1)`
 
 ## Hash Table
 - `1897. Redistribute Characters to Make All Strings Equal`
