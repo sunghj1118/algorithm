@@ -39,3 +39,4 @@
 - `300. Longest Increasing Subsequence`
 - *`1235. Maximum Profit in Job Scheduling`
 - *`446. Arithmetic Slices II - Subsequence`
+- `70. Climbing Stairs`

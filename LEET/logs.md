@@ -95,3 +95,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `1207. Unique Number of Occurrences`
 #
 
+### 18
+- Daily Problem: Solved `70. Climbing Stairs`
+#
+
