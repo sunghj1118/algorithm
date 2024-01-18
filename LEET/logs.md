@@ -91,3 +91,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `380. Insert Delete GetRandom O(1)`
 #
 
+### 17
+- Daily Problem: Solved `1207. Unique Number of Occurrences`
+#
+
