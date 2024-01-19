@@ -99,3 +99,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `70. Climbing Stairs`
 #
 
+### 19
+- Daily Problem: Solved `931. Minimum Falling Path Sum`
+#
+
