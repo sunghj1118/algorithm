@@ -17,6 +17,7 @@
 - `1657. Determine if Two Strings Are Close`
 - `2225. Find Players With Zero or One Losses`
 - `1207. Unique Number of Occurrences`
+- `645. Set Mismatch`
 
 ## Tree
 - `2236. Root Equals Sum of Children`
