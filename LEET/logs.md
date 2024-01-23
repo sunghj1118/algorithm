@@ -115,3 +115,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `645. Set Mismatch`
 #
 
+### 23
+- Daily Problem: Solved `1239. Maximum Length of a Concatenated String with Unique Characters`
+#
+
