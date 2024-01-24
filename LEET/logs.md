@@ -119,3 +119,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `1239. Maximum Length of a Concatenated String with Unique Characters`
 #
 
+### 24
+- Daily Problem: Solved `1457. Pseudo-Palindromic Paths in a Binary Tree`
+#
+
