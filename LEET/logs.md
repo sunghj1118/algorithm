@@ -123,3 +123,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `1457. Pseudo-Palindromic Paths in a Binary Tree`
 #
 
+### 25
+- Daily Problem: Solved `1143. Longest Common Subsequence`
+#
+
