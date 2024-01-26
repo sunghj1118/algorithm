@@ -47,3 +47,4 @@
 - *`907. Sum of Subarray Minimums`
 - *`198. House Robber`
 - *`1143. Longest Common Subsequence`
+- *`576. Out of Boundary Paths`

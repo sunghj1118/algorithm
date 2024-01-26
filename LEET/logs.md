@@ -127,3 +127,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `1143. Longest Common Subsequence`
 #
 
+### 26
+- Daily Problem: Solved `576. Out of Boundary Paths`
+#
+
