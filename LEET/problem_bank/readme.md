@@ -48,3 +48,4 @@
 - *`198. House Robber`
 - *`1143. Longest Common Subsequence`
 - *`576. Out of Boundary Paths`
+- *`629. K Inverse Pairs Array`

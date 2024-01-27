@@ -131,3 +131,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `576. Out of Boundary Paths`
 #
 
+### 27
+- Daily Problem: Solved `629. K Inverse Pairs Array`
+#
+
