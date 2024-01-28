@@ -18,6 +18,7 @@
 - `2225. Find Players With Zero or One Losses`
 - `1207. Unique Number of Occurrences`
 - `645. Set Mismatch`
+- `1074. Number of Submatrices That Sum to Target`
 
 ## Tree
 - `2236. Root Equals Sum of Children`

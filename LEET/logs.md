@@ -135,3 +135,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `629. K Inverse Pairs Array`
 #
 
+### 28
+- Daily Problem: Solved `1074. Number of Submatrices That Sum to Target`
+#
+
