@@ -139,3 +139,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `1074. Number of Submatrices That Sum to Target`
 #
 
+### 29
+- Daily Problem: Solved `232. Implement Queue using Stacks`
+#
+

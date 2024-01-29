@@ -1,5 +1,8 @@
 # Solved Problems:
 
+## Queue
+- `232. Implement Queue using Stacks`
+
 ## String
 - `1704. Determine if String Halves Are Alike`
 
