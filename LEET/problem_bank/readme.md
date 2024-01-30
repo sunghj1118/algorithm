@@ -10,6 +10,7 @@
 - `2235. Add Two Integers`
 - `412. Fizz Buzz`
 - `380. Insert Delete GetRandom O(1)`
+- `150. Evaluate Reverse Polish Notation`
 
 ## Hash Table
 - `1897. Redistribute Characters to Make All Strings Equal`
