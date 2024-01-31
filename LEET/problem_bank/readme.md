@@ -36,6 +36,7 @@
 - `1480. Running Sum of 1d Array`
 - `2125. Number of Laser Beams in a Bank`
 - `1239. Maximum Length of a Concatenated String with Unique Characters`
+- `739. Daily Temperatures`
 
 ## Greedy
 - `1578. Minimum Time to Make Rope Colorful`

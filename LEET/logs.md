@@ -147,3 +147,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `150. Evaluate Reverse Polish Notation`
 #
 
+### 31
+- Daily Problem: Solved `739. Daily Temperatures`
+#
+
