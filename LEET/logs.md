@@ -151,3 +151,8 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `739. Daily Temperatures`
 #
 
+### 1
+- Daily Problem: Solved `739. Daily Temperatures`
+- Solved DFS: `1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree`
+#
+
