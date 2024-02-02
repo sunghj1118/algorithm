@@ -152,7 +152,7 @@ Here are the logs for my progress in leetcode.
 #
 
 ### 1
-- Daily Problem: Solved `739. Daily Temperatures`
+- Daily Problem: Solved `2966. Divide Array Into Arrays With Max Difference`
 - Solved DFS: `1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree`
 #
 
