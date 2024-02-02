@@ -11,6 +11,7 @@
 - `412. Fizz Buzz`
 - `380. Insert Delete GetRandom O(1)`
 - `150. Evaluate Reverse Polish Notation`
+- `1291. Sequential Digits`
 
 ## Hash Table
 - `1897. Redistribute Characters to Make All Strings Equal`

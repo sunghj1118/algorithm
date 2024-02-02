@@ -156,3 +156,7 @@ Here are the logs for my progress in leetcode.
 - Solved DFS: `1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree`
 #
 
+### 2
+- Daily Problem: Solved `1291. Sequential Digits`
+#
+
