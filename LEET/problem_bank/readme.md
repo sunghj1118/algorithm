@@ -5,6 +5,7 @@
 
 ## String
 - `1704. Determine if String Halves Are Alike`
+- `76. Minimum Window Substring`
 
 ## Math
 - `2235. Add Two Integers`

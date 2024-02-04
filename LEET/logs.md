@@ -160,3 +160,11 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `1291. Sequential Digits`
 #
 
+### 3
+- Daily Problem: Solved `1043. Partition Array for Maximum Sum`
+#
+
+### 4
+- Daily Problem: Solved `76. Minimum Window Substring`
+#
+
