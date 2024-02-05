@@ -168,3 +168,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `76. Minimum Window Substring`
 #
 
+### 5
+- Daily Problem: Solved `387. First Unique Character in a String`
+#
+
