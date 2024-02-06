@@ -13,8 +13,21 @@ baekjoon의 접미사는 baekjoon, aekjoon, ekjoon, kjoon, joon, oon, on, n 으�
 - s가 존재하지 않을 때까지 하나씩 줄여서 리스트에 추가하고 sort.
 
 ### Solution
-Provide a detailed explanation of your solution. Include code snippets if possible.
+- solved. key: make sure that there are no empty values in list.
 
 ```python
-# Code snippet here
+s = str(input())
+jubmisa = [s]
+
+while s:
+    s = s[1:]
+    jubmisa.append(s)
+
+jubmisa = [value for value in jubmisa if value]
+
+jubmisa.sort()
+
+for value in jubmisa:
+    print(value)
+
 ```
