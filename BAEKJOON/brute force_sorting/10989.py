@@ -8,8 +8,6 @@ for _ in range(N):
     number = int(input())
     counts[number] += 1
 
-counts.sort()
-
 for value in range(10001):
     if counts[value] != 0:
         for _ in range(counts[value]):
