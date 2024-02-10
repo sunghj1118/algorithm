@@ -172,3 +172,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `387. First Unique Character in a String`
 #
 
+### 10
+- Daily Problem: Solved `647. Palindromic Substrings`
+#
+
