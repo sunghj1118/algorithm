@@ -26,6 +26,7 @@
 - `645. Set Mismatch`
 - *`1074. Number of Submatrices That Sum to Target`
 - `387. First Unique Character in a String`
+- `169. Majority Element`
 
 ## Tree
 - `2236. Root Equals Sum of Children`

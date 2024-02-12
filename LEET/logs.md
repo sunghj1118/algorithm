@@ -180,3 +180,7 @@ Here are the logs for my progress in leetcode.
 - Daily Problem: Solved `1463. Cherry Pickup II`
 #
 
+### 12
+- Daily Problem: Solved `169. Majority Element`
+#
+
