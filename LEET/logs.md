@@ -182,5 +182,9 @@ Here are the logs for my progress in leetcode.
 
 ### 12
 - Daily Problem: Solved `169. Majority Element`
+
+#
+### 13
+- Daily Problem: Solved `2108. Find First Palindromic String in the Array`
 #
 
