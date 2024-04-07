@@ -38,6 +38,9 @@
 - *`1457. Pseudo-Palindromic Paths in a Binary Tree`
 - `1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree`
 
+## DFS
+- `94. Binary Tree Inorder Traversal`
+
 ## Array
 - `1480. Running Sum of 1d Array`
 - `2125. Number of Laser Beams in a Bank`
