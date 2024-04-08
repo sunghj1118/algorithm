@@ -40,6 +40,7 @@
 
 ## DFS
 - `94. Binary Tree Inorder Traversal`
+- `98. Validate Binary Search Tree`
 
 ## Array
 - `1480. Running Sum of 1d Array`
