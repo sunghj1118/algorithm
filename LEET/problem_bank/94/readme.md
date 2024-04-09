@@ -1,17 +1,12 @@
-# 98. Problem Review
+# 94. Problem Review
 
-## 98. Validate Binary Search Tree
+## 94. Binary Tree Inorder Traversal
 
 ### Problem Definition
-Given the root of a binary tree, determine if it is a valid binary search tree (BST).
-
-A valid BST is defined as follows:
-- The left subtree of a node contains only nodes with keys less than the node's key.
-- The right subtree of a node contains only nodes with keys greater than the node's key.
-- Both the left and right subtrees must also be binary search trees.
+Given the root of a binary tree, return the inorder traversal of its nodes' values.
 
 ### Approach
-- Check if the current node is within the range of possible values by keeping track of a min and max val.
+- Create a DFS tree stack that traverses left, root, and right in that order.
 
 ### Solution
 
@@ -29,26 +24,19 @@ class TreeNode:
         self.right = right
 
 
-
 class Solution:
-    def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        def recursive(node, lower, upper):
-            # Base case
-            if not node:
-                return True
-            
-            # Check if the current node is within the range
-            if node.val <= lower or node.val >= upper:
-                return False
+    def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        result, stack = [], [(root, False)]
 
-            # Check the left and right subtree
-            if not recursive(node.right, node.val, upper):
-                return False
+        while stack:
+            node, visited = stack.pop() # last element
+            if node:
+                if visited:
+                    result.append(node.val)
+                else: # inorder: left -> root -> right
+                    stack.append((node.right, False))
+                    stack.append((node, True))
+                    stack.append((node.left, False))
 
-            if not recursive(node.left, lower, node.val):
-                return False
-
-            return True
-
-        return recursive(root, float('-inf'), float('inf'))
+        return result
 ```
