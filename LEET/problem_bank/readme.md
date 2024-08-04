@@ -45,6 +45,9 @@
 - `101. Symmetric Tree`
 - `104. Maximum Depth of Binary Tree`
 
+## BFS
+- `1926. Nearest Exit from Entrance in Maze`
+
 ## Array
 - `1480. Running Sum of 1d Array`
 - `2125. Number of Laser Beams in a Bank`
