@@ -1,5 +1,8 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
+        if len(s) > len(t):
+            return False
+        
         s_pointer = 0
         t_pointer = 0
 
