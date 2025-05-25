@@ -28,6 +28,9 @@ class Solution:
             if matches == 6:
                 return
             
-            # filter words based on matches
-            words = [w for w in words if match_count(guess,w) == matches]
+            # remove words with sharing characters if 0 matches
+            if matches == 0:
+                words = [w for w in words if not any(a==b for a,b in zip(guess,w))]
+            else:
+                words = [w for w in words if match_count(guess,w) == matches]
             n += 1
