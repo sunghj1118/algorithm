@@ -3,16 +3,19 @@ class Solution {
         Stack<Character> stack = new Stack<>();
 
         for(int i=0;i<s.length();i++){
-            if(!stack.isEmpty()){
-                if( (stack.peek()=='(' && s.charAt(i)==')')
-                 || (stack.peek()=='[' && s.charAt(i)==']')
-                 || (stack.peek()=='{' && s.charAt(i)=='}')
-                ){
-                    stack.pop();
-                    continue;
+            char c = s.charAt(i);
+
+            if(c=='(' || c=='[' || c=='{'){
+                stack.push(c);
+            } else {
+                if (stack.isEmpty()) {return false;}
+                char open = stack.pop();
+                if ( (c==')' && open!='(') 
+                || (c==']' && open!='[')
+                || (c=='}' && open!='{') ){
+                    return false;
                 }
             }
-            stack.push(s.charAt(i));
         }
 
         return stack.isEmpty();
