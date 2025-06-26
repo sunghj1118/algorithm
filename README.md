@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunghj1118/algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sunghj1118/algorithm/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/sunghj1118/algorithm/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/sunghj1118/algorithm/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sunghj1118/algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunghj1118/algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunghj1118/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sunghj1118/algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sunghj1118/algorithm/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/sunghj1118/algorithm/tree/master/0066-plus-one) |
 | [0873-guess-the-word](https://github.com/sunghj1118/algorithm/tree/master/0873-guess-the-word) |
 ## Interactive
 |  |
