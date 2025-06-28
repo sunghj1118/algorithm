@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sunghj1118/algorithm/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/sunghj1118/algorithm/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/sunghj1118/algorithm/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sunghj1118/algorithm/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sunghj1118/algorithm/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sunghj1118/algorithm/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/sunghj1118/algorithm/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sunghj1118/algorithm/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/sunghj1118/algorithm/tree/master/0392-is-subsequence) |
 | [0873-guess-the-word](https://github.com/sunghj1118/algorithm/tree/master/0873-guess-the-word) |
 ## Two Pointers
@@ -102,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sunghj1118/algorithm/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sunghj1118/algorithm/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
