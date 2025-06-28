@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sunghj1118/algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunghj1118/algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunghj1118/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/sunghj1118/algorithm/tree/master/0217-contains-duplicate) |
 | [0873-guess-the-word](https://github.com/sunghj1118/algorithm/tree/master/0873-guess-the-word) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sunghj1118/algorithm/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/sunghj1118/algorithm/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/sunghj1118/algorithm/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sunghj1118/algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sunghj1118/algorithm/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
