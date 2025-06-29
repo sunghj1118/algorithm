@@ -6,21 +6,22 @@ class Solution {
             map.put(num, map.getOrDefault(num,0) + 1);
         }
 
-        // Sort by Highest using EntrySet, Stream, comparingByValue
-        List<Integer> topK = map.entrySet()
-            .stream()
-            .sorted(Map.Entry.<Integer,Integer>comparingByValue(Comparator.reverseOrder()))
-            .limit(k)
-            .map(Map.Entry::getKey)
-            .toList();
+        // 2. Use a min-heap to keep top k frequent elements
+        PriorityQueue<Map.Entry<Integer, Integer>> minHeap =
+            new PriorityQueue<>(Comparator.comparingInt(Map.Entry::getValue));
 
-        // Get Top K using Int Array
-        int[] result = new int[topK.size()];
-        for (int i=0; i<topK.size();i++){
-            result[i] = topK.get(i);
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            minHeap.offer(entry);
+            if (minHeap.size() > k) {
+                minHeap.poll(); // Remove the least frequent element
+            }
         }
 
-        // return result
+        // 3. Extract keys from heap
+        int[] result = new int[k];
+        for (int i = k - 1; i >= 0; i--) {
+            result[i] = minHeap.poll().getKey();
+        }
         return result;
     }
 }
