@@ -1,14 +1,10 @@
 class Solution {
     public int possibleStringCount(String word) {
-        ArrayList<Character> letters = new ArrayList<>();
-
-        for (char w : word.toCharArray()){
-            letters.add(w);
-        }
+        if(word==null || word.isEmpty()) return 0;
 
         int counter = 1;
         for (int i=1; i<word.length(); i++){
-            if (letters.get(i).equals(letters.get(i-1))){
+            if (word.charAt(i) == word.charAt(i-1)){
                 counter += 1;
             }
         }
