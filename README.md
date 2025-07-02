@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sunghj1118/algorithm/tree/master/0392-is-subsequence) |
 | [0873-guess-the-word](https://github.com/sunghj1118/algorithm/tree/master/0873-guess-the-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/sunghj1118/algorithm/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/sunghj1118/algorithm/tree/master/3618-find-the-original-typed-string-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sunghj1118/algorithm/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunghj1118/algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/sunghj1118/algorithm/tree/master/0392-is-subsequence) |
+| [3618-find-the-original-typed-string-ii](https://github.com/sunghj1118/algorithm/tree/master/3618-find-the-original-typed-string-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sunghj1118/algorithm/tree/master/0238-product-of-array-except-self) |
+| [3618-find-the-original-typed-string-ii](https://github.com/sunghj1118/algorithm/tree/master/3618-find-the-original-typed-string-ii) |
 ## Union Find
 |  |
 | ------- |
