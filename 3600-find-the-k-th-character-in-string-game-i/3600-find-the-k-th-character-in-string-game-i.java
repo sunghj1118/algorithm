@@ -1,14 +1,17 @@
 class Solution {
     public char kthCharacter(int k) {
-        String word = "a";
-        String newWord = word;
+        return helper(k);
+    }
 
-        while (newWord.length() < k){
-            for (char c : word.toCharArray()){
-                newWord += (char) (c+1);
-            }
-            word = newWord;
+    private char helper(int k){
+        if (k==1) return 'a';
+        int len = 1;
+        while (len<k) len *= 2;
+        if (k<=len/2){
+            return helper(k);
+        } else {
+            char prev = helper(k-len/2);
+            return prev == 'z' ? 'a' : (char) (prev+1);
         }
-        return newWord.charAt(k-1);
     }
 }
