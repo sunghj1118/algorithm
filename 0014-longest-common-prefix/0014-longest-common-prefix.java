@@ -3,21 +3,26 @@ class Solution {
         if (strs==null) return "";
         if (strs.length==1) return strs[0];
         
-        String longest = "";
-        Arrays.sort(strs, (s1,s2) -> s1.length() - s2.length());
+        int minLen = Integer.MAX_VALUE;
+        for (String s : strs){
+            if (s.length() < minLen){
+                minLen = s.length();
+            }
+        }
         
-        char curr = 'a';
+        StringBuilder prefix = new StringBuilder();
         
-        for (int i=0; i<strs[0].length(); i++){
-            curr = strs[0].charAt(i);
+        for (int i=0; i<minLen; i++){
+            char curr = strs[0].charAt(i);
+
             for (int j=1; j<strs.length; j++){
                 if (strs[j].charAt(i) != curr){
-                    return longest;
+                    return prefix.toString();
                 }
             }
-            longest += curr;
+            prefix.append(curr);
         }
 
-        return longest;
+        return prefix.toString();
     }
 }
