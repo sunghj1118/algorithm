@@ -1,34 +1,19 @@
-class Solution {
-    public class Counter<T> {
-        private final Map<T, Integer> counts = new HashMap<>();
-
-        public void add(T t){
-            counts.merge(t, 1, Integer::sum);
-        }
-
-        public int count(T t){
-            return counts.getOrDefault(t,0);
-        }
-
-        public Set<T> keySet() {
-            return counts.keySet();
-        }
-    }
-    
+class Solution {    
     public int findLucky(int[] arr) {
-        Counter<Integer> counter = new Counter<>();
-        for(int a : arr){
-            counter.add(a);
+        Map<Integer, Integer> freq = new HashMap<>();
+
+        for (int a : arr){
+            freq.put(a, freq.getOrDefault(a,0) + 1);
         }
 
-        ArrayList<Integer> res = new ArrayList<>();
-        for (Integer a : counter.keySet()){
-            if (counter.count(a) == a){
-                res.add(a);
+        int res = -1;
+
+        for (int key : freq.keySet()){
+            if (freq.get(key) == key){
+                res = Math.max(res, key);
             }
         }
 
-        if (res.isEmpty()) return -1;
-        return Collections.max(res);
+        return res;
     }
 }
