@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sunghj1118/algorithm/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sunghj1118/algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0873-guess-the-word](https://github.com/sunghj1118/algorithm/tree/master/0873-guess-the-word) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sunghj1118/algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sunghj1118/algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sunghj1118/algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sunghj1118/algorithm/tree/master/0347-top-k-frequent-elements) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sunghj1118/algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sunghj1118/algorithm/tree/master/0347-top-k-frequent-elements) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sunghj1118/algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
