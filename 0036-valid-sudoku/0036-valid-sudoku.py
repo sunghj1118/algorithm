@@ -1,38 +1,38 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        # 9 rows
-        # 9 cols
-        # 9 boxes
-        # for each num, check if it is possible
+        # check horizontal
+        for i in range(9):
+            row = set()
+            for j in range(9):
+                val = board[i][j]
+                if val == ".":
+                    continue
+                if val in row:
+                    return False
+                row.add(val)
         
-        rows = [set() for _ in range(9)]
-        cols = [set() for _ in range(9)]
-        boxes = [set() for _ in range(9)]
-        
+        # check vertical
+        for i in range(9):
+            col = set()
+            for j in range(9):
+                val = board[j][i]
+                if val == ".":
+                    continue
+                if val in col: 
+                    return False
+                else:
+                    col.add(val)
+
+        # check square
+        square = [[set() for _ in range(3)] for _ in range(3)]
         for i in range(9):
             for j in range(9):
-                num = board[i][j]
-                if num == ".":
+                val = board[i][j]
+                if val == ".":
                     continue
-                
-                # find sub box (012,345,678)
-                box_idx = (i // 3) * 3 + (j // 3)
-                
-                # check for duplicates
-                # same row, same col, same box
-                if (num in rows[i]) or (num in cols[j]) or (num in boxes[box_idx]):
+                if val in square[i//3][j//3]:
                     return False
-                
-                # if condition passed, add to set, allowing O(1) lookup
-                rows[i].add(num)
-                cols[j].add(num)
-                boxes[box_idx].add(num)
-        
-        return True
+                else:
+                    square[i//3][j//3].add(board[i][j])
 
-        # example:
-        # [0][1] = 3
-        # check row: only 5
-        # check col: nothing
-        # check box: only 5
-        # add to set
+        return True
