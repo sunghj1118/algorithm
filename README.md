@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sunghj1118/algorithm/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sunghj1118/algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sunghj1118/algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunghj1118/algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sunghj1118/algorithm/tree/master/0455-assign-cookies) |
 | [0873-guess-the-word](https://github.com/sunghj1118/algorithm/tree/master/0873-guess-the-word) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sunghj1118/algorithm/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sunghj1118/algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sunghj1118/algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sunghj1118/algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunghj1118/algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sunghj1118/algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sunghj1118/algorithm/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/sunghj1118/algorithm/tree/master/2479-meeting-rooms-iii) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sunghj1118/algorithm/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunghj1118/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/sunghj1118/algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunghj1118/algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/sunghj1118/algorithm/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sunghj1118/algorithm/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sunghj1118/algorithm/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunghj1118/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/sunghj1118/algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunghj1118/algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sunghj1118/algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Math
 |  |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sunghj1118/algorithm/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sunghj1118/algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sunghj1118/algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sunghj1118/algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sunghj1118/algorithm/tree/master/0455-assign-cookies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sunghj1118/algorithm/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sunghj1118/algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
