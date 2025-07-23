@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sunghj1118/algorithm/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/sunghj1118/algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [0873-guess-the-word](https://github.com/sunghj1118/algorithm/tree/master/0873-guess-the-word) |
+| [0979-di-string-match](https://github.com/sunghj1118/algorithm/tree/master/0979-di-string-match) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sunghj1118/algorithm/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sunghj1118/algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sunghj1118/algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/sunghj1118/algorithm/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/sunghj1118/algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0873-guess-the-word](https://github.com/sunghj1118/algorithm/tree/master/0873-guess-the-word) |
+| [0979-di-string-match](https://github.com/sunghj1118/algorithm/tree/master/0979-di-string-match) |
 | [3396-valid-word](https://github.com/sunghj1118/algorithm/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/sunghj1118/algorithm/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sunghj1118/algorithm/tree/master/3618-find-the-original-typed-string-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sunghj1118/algorithm/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sunghj1118/algorithm/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/sunghj1118/algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0979-di-string-match](https://github.com/sunghj1118/algorithm/tree/master/0979-di-string-match) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/sunghj1118/algorithm/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/sunghj1118/algorithm/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/sunghj1118/algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0979-di-string-match](https://github.com/sunghj1118/algorithm/tree/master/0979-di-string-match) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sunghj1118/algorithm/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sunghj1118/algorithm/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sunghj1118/algorithm/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
