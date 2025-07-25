@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sunghj1118/algorithm/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sunghj1118/algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sunghj1118/algorithm/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sunghj1118/algorithm/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sunghj1118/algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sunghj1118/algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sunghj1118/algorithm/tree/master/0242-valid-anagram) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sunghj1118/algorithm/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sunghj1118/algorithm/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunghj1118/algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/sunghj1118/algorithm/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sunghj1118/algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sunghj1118/algorithm/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sunghj1118/algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sunghj1118/algorithm/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sunghj1118/algorithm/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sunghj1118/algorithm/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/sunghj1118/algorithm/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sunghj1118/algorithm/tree/master/0268-missing-number) |
 | [0873-guess-the-word](https://github.com/sunghj1118/algorithm/tree/master/0873-guess-the-word) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sunghj1118/algorithm/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
