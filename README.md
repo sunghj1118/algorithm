@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sunghj1118/algorithm/tree/master/0645-set-mismatch) |
 | [0747-min-cost-climbing-stairs](https://github.com/sunghj1118/algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [0873-guess-the-word](https://github.com/sunghj1118/algorithm/tree/master/0873-guess-the-word) |
+| [0941-sort-array-by-parity](https://github.com/sunghj1118/algorithm/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/sunghj1118/algorithm/tree/master/0979-di-string-match) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sunghj1118/algorithm/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sunghj1118/algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sunghj1118/algorithm/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sunghj1118/algorithm/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/sunghj1118/algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0941-sort-array-by-parity](https://github.com/sunghj1118/algorithm/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/sunghj1118/algorithm/tree/master/0979-di-string-match) |
 ## Dynamic Programming
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sunghj1118/algorithm/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/sunghj1118/algorithm/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/sunghj1118/algorithm/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/sunghj1118/algorithm/tree/master/0941-sort-array-by-parity) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sunghj1118/algorithm/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sunghj1118/algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/sunghj1118/algorithm/tree/master/2479-meeting-rooms-iii) |
