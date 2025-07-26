@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sunghj1118/algorithm/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sunghj1118/algorithm/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sunghj1118/algorithm/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunghj1118/algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sunghj1118/algorithm/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/sunghj1118/algorithm/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sunghj1118/algorithm/tree/master/0125-valid-palindrome) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sunghj1118/algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunghj1118/algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sunghj1118/algorithm/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunghj1118/algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sunghj1118/algorithm/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sunghj1118/algorithm/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sunghj1118/algorithm/tree/master/0125-valid-palindrome) |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sunghj1118/algorithm/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunghj1118/algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
