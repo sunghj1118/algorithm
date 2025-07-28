@@ -2,7 +2,6 @@ class Solution:
     def isPalindrome(self, s: str) -> bool:
         s = s.lower()
         s = [ch for ch in s if ch.isalnum()]
-        print(s)
         left = 0
         right = len(s) - 1
 
