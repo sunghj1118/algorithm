@@ -1,10 +1,15 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        complements = {}
+        left, right = 0, len(numbers)-1
 
-        for i in range(len(numbers)):
-            complement = target - numbers[i]
-            if str(numbers[i]) in complements.keys():
-                return [complements.get(str(numbers[i]))+1, i+1]
+        while left < right:
+            s = numbers[left]+numbers[right]
+
+            if s == target:
+                return left+1, right+1
+            elif s<target:
+                left += 1
             else:
-                complements[str(complement)] = i
+                right -= 1
+        
+        return []
