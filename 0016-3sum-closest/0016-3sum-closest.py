@@ -11,9 +11,10 @@ class Solution:
             while left<right:
                 total = nums[left] + nums[right] + nums[i]
                 remainder = abs(target - total)
-                min_diff = min(min_diff, remainder)
-                final = total if min_diff >= remainder else final
-                # print(nums[left],nums[right],nums[i], total,final)
+
+                if remainder < min_diff:
+                    min_diff = remainder
+                    final = total
 
                 if total < target:
                     left += 1
