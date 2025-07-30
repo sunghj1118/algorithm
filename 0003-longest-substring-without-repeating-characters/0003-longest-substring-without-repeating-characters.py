@@ -5,15 +5,15 @@ class Solution:
         
         for i in range(n):
             right = i+1
-            substr = set()
-            substr.add(s[i])
+            substr = ""
+            substr += s[i]
             len_substr = 1
 
             while right < n:
                 if s[right] in substr:
                     break
                 
-                substr.add(s[right])
+                substr += s[right]
                 len_substr += 1
                 right += 1
             
