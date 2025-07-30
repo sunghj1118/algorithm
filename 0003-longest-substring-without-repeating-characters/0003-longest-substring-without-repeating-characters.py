@@ -9,7 +9,10 @@ class Solution:
             substr.add(s[i])
             len_substr = 1
 
-            while right < n and s[right] not in substr:
+            while right < n:
+                if s[right] in substr:
+                    break
+                
                 substr.add(s[right])
                 len_substr += 1
                 right += 1
