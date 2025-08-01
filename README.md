@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sunghj1118/algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sunghj1118/algorithm/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/sunghj1118/algorithm/tree/master/2479-meeting-rooms-iii) |
+| [3412-permutation-difference-between-two-strings](https://github.com/sunghj1118/algorithm/tree/master/3412-permutation-difference-between-two-strings) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sunghj1118/algorithm/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Matrix
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/sunghj1118/algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sunghj1118/algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3396-valid-word](https://github.com/sunghj1118/algorithm/tree/master/3396-valid-word) |
+| [3412-permutation-difference-between-two-strings](https://github.com/sunghj1118/algorithm/tree/master/3412-permutation-difference-between-two-strings) |
 | [3617-find-the-original-typed-string-i](https://github.com/sunghj1118/algorithm/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sunghj1118/algorithm/tree/master/3618-find-the-original-typed-string-ii) |
 ## Two Pointers
