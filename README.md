@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sunghj1118/algorithm/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sunghj1118/algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sunghj1118/algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sunghj1118/algorithm/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/sunghj1118/algorithm/tree/master/2479-meeting-rooms-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sunghj1118/algorithm/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-guess-the-word](https://github.com/sunghj1118/algorithm/tree/master/0873-guess-the-word) |
 | [0979-di-string-match](https://github.com/sunghj1118/algorithm/tree/master/0979-di-string-match) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sunghj1118/algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sunghj1118/algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3396-valid-word](https://github.com/sunghj1118/algorithm/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/sunghj1118/algorithm/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sunghj1118/algorithm/tree/master/3618-find-the-original-typed-string-ii) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sunghj1118/algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunghj1118/algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sunghj1118/algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sunghj1118/algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Quickselect
 |  |
 | ------- |
