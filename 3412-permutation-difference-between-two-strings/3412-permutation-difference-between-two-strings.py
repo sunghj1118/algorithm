@@ -1,15 +1,6 @@
 class Solution:
     def findPermutationDifference(self, s: str, t: str) -> int:
-        s_index = defaultdict(int)
-        t_index = defaultdict(int)
+        s_index = {ch:i for i,ch in enumerate(s)}
+        t_index = {ch:i for i,ch in enumerate(t)}
         
-        for i in range(len(s)):
-            s_index[s[i]] = i
-            t_index[t[i]] = i
-        
-        total = 0
-        alphabet = 'abcdefghijklmnopqrstuvwxyz'
-        for ch in alphabet:
-            total += abs(s_index[ch] - t_index[ch])
-        
-        return total
+        return sum(abs(t_index[ch] - s_index[ch]) for ch in s)
