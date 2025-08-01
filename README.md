@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sunghj1118/algorithm/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sunghj1118/algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/sunghj1118/algorithm/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sunghj1118/algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sunghj1118/algorithm/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/sunghj1118/algorithm/tree/master/2479-meeting-rooms-iii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sunghj1118/algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0873-guess-the-word](https://github.com/sunghj1118/algorithm/tree/master/0873-guess-the-word) |
 | [0979-di-string-match](https://github.com/sunghj1118/algorithm/tree/master/0979-di-string-match) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/sunghj1118/algorithm/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sunghj1118/algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sunghj1118/algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2547-odd-string-difference](https://github.com/sunghj1118/algorithm/tree/master/2547-odd-string-difference) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunghj1118/algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/sunghj1118/algorithm/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/sunghj1118/algorithm/tree/master/0747-min-cost-climbing-stairs) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/sunghj1118/algorithm/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sunghj1118/algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/sunghj1118/algorithm/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sunghj1118/algorithm/tree/master/3618-find-the-original-typed-string-ii) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/sunghj1118/algorithm/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sunghj1118/algorithm/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Memoization
 |  |
