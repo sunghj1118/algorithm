@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sunghj1118/algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunghj1118/algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sunghj1118/algorithm/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/sunghj1118/algorithm/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/sunghj1118/algorithm/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sunghj1118/algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/sunghj1118/algorithm/tree/master/0541-reverse-string-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sunghj1118/algorithm/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sunghj1118/algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/sunghj1118/algorithm/tree/master/0394-decode-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sunghj1118/algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sunghj1118/algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sunghj1118/algorithm/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/sunghj1118/algorithm/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sunghj1118/algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sunghj1118/algorithm/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Divide and Conquer
