@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sunghj1118/algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunghj1118/algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunghj1118/algorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sunghj1118/algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/sunghj1118/algorithm/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sunghj1118/algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sunghj1118/algorithm/tree/master/0567-permutation-in-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sunghj1118/algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sunghj1118/algorithm/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sunghj1118/algorithm/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sunghj1118/algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/sunghj1118/algorithm/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sunghj1118/algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/sunghj1118/algorithm/tree/master/0541-reverse-string-ii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunghj1118/algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sunghj1118/algorithm/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sunghj1118/algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sunghj1118/algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Tree
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunghj1118/algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunghj1118/algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sunghj1118/algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sunghj1118/algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/sunghj1118/algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sunghj1118/algorithm/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sunghj1118/algorithm/tree/master/0643-maximum-average-subarray-i) |
