@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sunghj1118/algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunghj1118/algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sunghj1118/algorithm/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/sunghj1118/algorithm/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/sunghj1118/algorithm/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/sunghj1118/algorithm/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sunghj1118/algorithm/tree/master/0643-maximum-average-subarray-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sunghj1118/algorithm/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/sunghj1118/algorithm/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/sunghj1118/algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/sunghj1118/algorithm/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sunghj1118/algorithm/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/sunghj1118/algorithm/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sunghj1118/algorithm/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sunghj1118/algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/sunghj1118/algorithm/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/sunghj1118/algorithm/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sunghj1118/algorithm/tree/master/0739-daily-temperatures) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sunghj1118/algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
@@ -432,5 +435,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sunghj1118/algorithm/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sunghj1118/algorithm/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
