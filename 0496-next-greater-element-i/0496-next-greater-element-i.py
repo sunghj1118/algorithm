@@ -1,19 +1,18 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         n, m = len(nums1), len(nums2)
+        next_greater = {}
         stack = []
+
+        # traverse nums2 and build a map of next greater elements
+        for num in nums2:
+            while stack and stack[-1] < num:
+                prev = stack.pop()
+                next_greater[prev] = num
+            stack.append(num)
         
-        for i in range(n):
-            for j in range(m):
-                if nums1[i] == nums2[j]:
-                    found = False
-                    for k in range(j+1, m):
-                        if nums2[k] > nums1[i]:
-                            stack.append(nums2[k])
-                            found = True
-                            break
-                    if not found:
-                        stack.append(-1)
-                    break
+        # for numbers that have no greater number, assign -1
+        for num in stack:
+            next_greater[num] = -1
         
-        return stack
+        return [next_greater[num] for num in nums1]
