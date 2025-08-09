@@ -3,7 +3,7 @@ class Solution:
         vals = set()
         left = 0
         max_len = 0
-        
+
         for right in range(len(s)):
             while s[right] in vals:
                 vals.remove(s[left])
