@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sunghj1118/algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sunghj1118/algorithm/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sunghj1118/algorithm/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/sunghj1118/algorithm/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/sunghj1118/algorithm/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/sunghj1118/algorithm/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sunghj1118/algorithm/tree/master/0643-maximum-average-subarray-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sunghj1118/algorithm/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sunghj1118/algorithm/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/sunghj1118/algorithm/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/sunghj1118/algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sunghj1118/algorithm/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sunghj1118/algorithm/tree/master/1036-rotting-oranges) |
 ## String
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunghj1118/algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sunghj1118/algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/sunghj1118/algorithm/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/sunghj1118/algorithm/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/sunghj1118/algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/sunghj1118/algorithm/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sunghj1118/algorithm/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sunghj1118/algorithm/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/sunghj1118/algorithm/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/sunghj1118/algorithm/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sunghj1118/algorithm/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sunghj1118/algorithm/tree/master/1036-rotting-oranges) |
