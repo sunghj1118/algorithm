@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0873-guess-the-word](https://github.com/sunghj1118/algorithm/tree/master/0873-guess-the-word) |
 | [0941-sort-array-by-parity](https://github.com/sunghj1118/algorithm/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/sunghj1118/algorithm/tree/master/0979-di-string-match) |
+| [1036-rotting-oranges](https://github.com/sunghj1118/algorithm/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sunghj1118/algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sunghj1118/algorithm/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sunghj1118/algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sunghj1118/algorithm/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sunghj1118/algorithm/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/sunghj1118/algorithm/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/sunghj1118/algorithm/tree/master/1036-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sunghj1118/algorithm/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/sunghj1118/algorithm/tree/master/1036-rotting-oranges) |
 ## Monotonic Stack
 |  |
 | ------- |
