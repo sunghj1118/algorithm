@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sunghj1118/algorithm/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sunghj1118/algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/sunghj1118/algorithm/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/sunghj1118/algorithm/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sunghj1118/algorithm/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/sunghj1118/algorithm/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/sunghj1118/algorithm/tree/master/0747-min-cost-climbing-stairs) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sunghj1118/algorithm/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/sunghj1118/algorithm/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sunghj1118/algorithm/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/sunghj1118/algorithm/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sunghj1118/algorithm/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sunghj1118/algorithm/tree/master/1036-rotting-oranges) |
 ## String
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/sunghj1118/algorithm/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/sunghj1118/algorithm/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sunghj1118/algorithm/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sunghj1118/algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sunghj1118/algorithm/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sunghj1118/algorithm/tree/master/0695-max-area-of-island) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sunghj1118/algorithm/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sunghj1118/algorithm/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/sunghj1118/algorithm/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sunghj1118/algorithm/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sunghj1118/algorithm/tree/master/1036-rotting-oranges) |
 ## Monotonic Stack
