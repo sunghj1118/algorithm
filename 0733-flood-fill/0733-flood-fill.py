@@ -6,16 +6,13 @@ class Solution:
             return image
 
         def dfs(r,c):
-            if image[r][c] == original_color:
-                image[r][c] = color
-                if r >= 1:
-                    dfs(r-1, c)
-                if r+1 < rows:
-                    dfs(r+1, c)
-                if c >= 1:
-                    dfs(r, c-1)
-                if c+1 < cols:
-                    dfs(r, c+1)
+            if r<0 or r>=rows or c<0 or c>=cols or image[r][c] != original_color:
+                return
+            image[r][c] = color
+            dfs(r+1,c)
+            dfs(r-1,c)
+            dfs(r,c+1)
+            dfs(r,c-1)
         
-        dfs(sr, sc)
+        dfs(sr,sc)
         return image
