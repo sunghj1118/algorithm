@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunghj1118/algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sunghj1118/algorithm/tree/master/0112-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sunghj1118/algorithm/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sunghj1118/algorithm/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/sunghj1118/algorithm/tree/master/0695-max-area-of-island) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunghj1118/algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sunghj1118/algorithm/tree/master/0112-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
 |  |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sunghj1118/algorithm/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/sunghj1118/algorithm/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/sunghj1118/algorithm/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sunghj1118/algorithm/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
