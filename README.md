@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sunghj1118/algorithm/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sunghj1118/algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sunghj1118/algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/sunghj1118/algorithm/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/sunghj1118/algorithm/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sunghj1118/algorithm/tree/master/0739-daily-temperatures) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sunghj1118/algorithm/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sunghj1118/algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sunghj1118/algorithm/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sunghj1118/algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/sunghj1118/algorithm/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/sunghj1118/algorithm/tree/master/0695-max-area-of-island) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sunghj1118/algorithm/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sunghj1118/algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
 |  |
