@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sunghj1118/algorithm/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sunghj1118/algorithm/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sunghj1118/algorithm/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/sunghj1118/algorithm/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/sunghj1118/algorithm/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sunghj1118/algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sunghj1118/algorithm/tree/master/0387-first-unique-character-in-a-string) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sunghj1118/algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunghj1118/algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sunghj1118/algorithm/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sunghj1118/algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/sunghj1118/algorithm/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sunghj1118/algorithm/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/sunghj1118/algorithm/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sunghj1118/algorithm/tree/master/0733-flood-fill) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sunghj1118/algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sunghj1118/algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sunghj1118/algorithm/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sunghj1118/algorithm/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunghj1118/algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
 |  |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/sunghj1118/algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sunghj1118/algorithm/tree/master/0040-combination-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/sunghj1118/algorithm/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
