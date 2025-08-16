@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sunghj1118/algorithm/tree/master/0268-missing-number) |
 | [0873-guess-the-word](https://github.com/sunghj1118/algorithm/tree/master/0873-guess-the-word) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sunghj1118/algorithm/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/sunghj1118/algorithm/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sunghj1118/algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sunghj1118/algorithm/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Interactive
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sunghj1118/algorithm/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/sunghj1118/algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/sunghj1118/algorithm/tree/master/0979-di-string-match) |
+| [1448-maximum-69-number](https://github.com/sunghj1118/algorithm/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sunghj1118/algorithm/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sunghj1118/algorithm/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sunghj1118/algorithm/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
